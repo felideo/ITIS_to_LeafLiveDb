@@ -1,0 +1,181 @@
+[12-Dec-2016 22:15:29 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 86 bytes) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 28
+[12-Dec-2016 22:15:29 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:15:29 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 22:15:29 America/Sao_Paulo] PHP   2. Database->select() /media/armazenamento/www/teste/itis_to_livedb/start.php:44
+[12-Dec-2016 22:15:29 America/Sao_Paulo] PHP   3. PDOStatement->fetchAll() /media/armazenamento/www/teste/itis_to_livedb/start.php:28
+[12-Dec-2016 22:17:28 America/Sao_Paulo] PHP Notice:  Undefined variable: itis_db in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 48
+[12-Dec-2016 22:17:28 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:17:28 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 22:17:28 America/Sao_Paulo] PHP Fatal error:  Call to a member function select() on null in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 48
+[12-Dec-2016 22:17:28 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:17:28 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 22:21:23 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 76 bytes) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 47
+[12-Dec-2016 22:21:23 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:21:23 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 22:21:23 America/Sao_Paulo] PHP   2. PDOStatement->fetchAll() /media/armazenamento/www/teste/itis_to_livedb/start.php:47
+[12-Dec-2016 22:23:26 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 83 bytes) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 47
+[12-Dec-2016 22:23:26 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:23:26 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 22:23:26 America/Sao_Paulo] PHP   2. PDOStatement->fetchAll() /media/armazenamento/www/teste/itis_to_livedb/start.php:47
+[12-Dec-2016 22:23:53 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 78 bytes) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 47
+[12-Dec-2016 22:23:53 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:23:53 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 22:23:53 America/Sao_Paulo] PHP   2. PDOStatement->fetchAll() /media/armazenamento/www/teste/itis_to_livedb/start.php:47
+[12-Dec-2016 22:24:17 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 86 bytes) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 47
+[12-Dec-2016 22:24:17 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:24:17 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 22:24:17 America/Sao_Paulo] PHP   2. PDOStatement->fetchAll() /media/armazenamento/www/teste/itis_to_livedb/start.php:47
+[12-Dec-2016 22:48:09 America/Sao_Paulo] PHP Notice:  Undefined index: hierarchy_string in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 23
+[12-Dec-2016 22:48:09 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:48:09 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 22:51:03 America/Sao_Paulo] PHP Notice:  Undefined variable: hieraquia in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 40
+[12-Dec-2016 22:51:03 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:51:03 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 22:51:03 America/Sao_Paulo] PHP Notice:  Undefined variable: completo in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 41
+[12-Dec-2016 22:51:03 America/Sao_Paulo] PHP Stack trace:
+[12-Dec-2016 22:51:03 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/start.php:0
+[12-Dec-2016 23:01:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 16
+[12-Dec-2016 23:03:54 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, 1)' at line 1' in /media/armazenamento/www/teste/itis_to_livedb/start.php:27
+Stack trace:
+#0 /media/armazenamento/www/teste/itis_to_livedb/start.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 27
+[12-Dec-2016 23:04:47 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, 1)' at line 1' in /media/armazenamento/www/teste/itis_to_livedb/start.php:32
+Stack trace:
+#0 /media/armazenamento/www/teste/itis_to_livedb/start.php(32): PDOStatement->execute()
+#1 {main}
+  thrown in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 32
+[12-Dec-2016 23:06:02 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, 1)' at line 1' in /media/armazenamento/www/teste/itis_to_livedb/start.php:34
+Stack trace:
+#0 /media/armazenamento/www/teste/itis_to_livedb/start.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 34
+[12-Dec-2016 23:06:15 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0, 1)' at line 1' in /media/armazenamento/www/teste/itis_to_livedb/start.php:34
+Stack trace:
+#0 /media/armazenamento/www/teste/itis_to_livedb/start.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 34
+[12-Dec-2016 23:53:09 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '%' in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 55
+[12-Dec-2016 23:55:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '"Mb<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 65
+[13-Dec-2016 10:19:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'memoria' (T_STRING) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 75
+[26-Dec-2016 12:22:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 51
+[26-Dec-2016 12:48:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$classificacoes' (T_VARIABLE) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 149
+[26-Dec-2016 13:38:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'debug2' (T_STRING) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 31
+[26-Dec-2016 13:50:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$taxonomia_id' (T_VARIABLE) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 54
+[22-Jan-2017 16:21:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ',' in /media/armazenamento/www/teste/itis_to_livedb/adequacao.php on line 58
+[22-Jan-2017 16:26:31 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ']', expecting variable (T_VARIABLE) or '$' in /media/armazenamento/www/teste/itis_to_livedb/adequacao.php on line 74
+[22-Jan-2017 16:28:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /media/armazenamento/www/teste/itis_to_livedb/adequacao.php on line 75
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP Notice:  Undefined variable: recursividade in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 41
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   6. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 41
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   6. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:30 America/Sao_Paulo] PHP   7. array_merge() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:41
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP Notice:  Undefined variable: recursividade in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 41
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   6. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 41
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   6. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:48:46 America/Sao_Paulo] PHP   7. array_merge() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:41
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP Notice:  Undefined variable: recursividade in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 41
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   6. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP Warning:  array_merge(): Argument #1 is not an array in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 41
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   6. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:07 America/Sao_Paulo] PHP   7. array_merge() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:41
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP Notice:  Undefined variable: lerolero in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 39
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP Notice:  Undefined variable: debug2 in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 45
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 45
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:46 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP Notice:  Undefined variable: debug2 in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 44
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 44
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:11
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   3. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   4. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:49:53 America/Sao_Paulo] PHP   5. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:38
+[22-Jan-2017 19:51:57 America/Sao_Paulo] PHP Notice:  Undefined variable: pdo in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 22
+[22-Jan-2017 19:51:57 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:51:57 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:51:57 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:13
+[22-Jan-2017 19:51:57 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 22
+[22-Jan-2017 19:51:57 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:51:57 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:51:57 America/Sao_Paulo] PHP   2. buscar_hierarquia() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:13
+[22-Jan-2017 19:53:07 America/Sao_Paulo] PHP Notice:  Undefined variable: consulta in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 18
+[22-Jan-2017 19:53:07 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:53:07 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:53:07 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on null in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 18
+[22-Jan-2017 19:53:07 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 19:53:07 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 19:59:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'debug2' (T_STRING) in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 48
+[22-Jan-2017 20:19:57 America/Sao_Paulo] PHP Notice:  Undefined variable: select_mem in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 70
+[22-Jan-2017 20:19:57 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 20:19:57 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 20:26:31 America/Sao_Paulo] PHP Notice:  Undefined variable: select_mem in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 70
+[22-Jan-2017 20:26:31 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 20:26:31 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 21:53:36 America/Sao_Paulo] PHP Notice:  Undefined variable: select_mem in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 72
+[22-Jan-2017 21:53:36 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 21:53:36 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[22-Jan-2017 22:12:13 America/Sao_Paulo] PHP Notice:  Undefined variable: select_mem in /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php on line 72
+[22-Jan-2017 22:12:13 America/Sao_Paulo] PHP Stack trace:
+[22-Jan-2017 22:12:13 America/Sao_Paulo] PHP   1. {main}() /media/armazenamento/www/teste/itis_to_livedb/preencher_organismo.php:0
+[12-Feb-2017 23:43:25 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /media/armazenamento/www/teste/itis_to_livedb/start.php on line 131
